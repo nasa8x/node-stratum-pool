@@ -31,12 +31,9 @@
         "url": "https://github.com/nasa8x/node-stratum-pool.git"
     },
     "dependencies": {
-        "async": "^2.5.0",
+        "async": "^2.6.1",
         "base58-native": "^0.1.4",
-        "bignum": "^0.12.5",
+        "bignum": "^0.13.0",
         "multi-hashing": "git://github.com/nasa8x/node-multi-hashing.git"
-    },
-    "engines": {
-        "node": ">=8.1.4"
     }
 }
